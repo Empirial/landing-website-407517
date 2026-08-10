@@ -4,7 +4,7 @@ export default function Hero() {
       <div className="mx-auto grid max-w-7xl grid-cols-1 items-center gap-10 px-4 py-20 sm:py-24 lg:grid-cols-2 lg:gap-16 lg:py-28">
         <div className="flex flex-col items-start text-left">
           <h1 className="text-4xl font-bold tracking-tight text-foreground sm:text-5xl">
-            Forge Your Strength
+            FORGE YOUR STRENGTH
           </h1>
           <p className="mt-6 text-lg text-muted-foreground sm:text-xl">
             Personalized fitness coaching in a high-energy, boutique environment. Train hard, recover smart, and become your strongest self.
